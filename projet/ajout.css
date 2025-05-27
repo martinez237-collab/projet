@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    align-items: center;
+}
+.header1{
+    display: flex;
+    height: 400px;
+    width: 350px;
+    background-color:gray;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 4px;
+}
+input{
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+.bt1{
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 4px;
+    transition: 0.3s ease;
+}
+
+textarea{
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid black;
+
+}
+.bt1:hover{
+    background-color: green;
+}

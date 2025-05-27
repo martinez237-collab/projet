@@ -1,0 +1,32 @@
+.header1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+    border-radius: 4px;
+    border: 1px solid black;
+    
+
+}
+input{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+textarea{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.bt1{
+    text-align: center;
+    margin-top: 25px;
+}

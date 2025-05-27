@@ -1,0 +1,20 @@
+input{
+    width: 100%;
+}
+.forme1{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    background-color: gray;
+    width: 350px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+body{
+    display: flex;
+    justify-content: center;  
+}
+.bt2{
+   padding: 20px;
+   border-radius: 4px;
+}

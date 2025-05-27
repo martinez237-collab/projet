@@ -1,0 +1,90 @@
+.header{
+    height: 70px;
+    background-color: white;
+    background-color: black;
+}
+
+.header1{
+    float: right;
+    margin-right: 400px;
+    word-spacing: 1em;
+    margin-top: 25px;
+
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+   
+}
+a:hover{
+   color: rgb(40, 156, 156);
+   border: 1px solid gray;
+   border-radius: 3px;
+}
+.img1{
+    border-radius: 4px; 
+    margin-left: 25px;
+    margin-top: 12px;
+}
+.conteneur{
+    display: flex;
+    justify-content: space-between;
+    word-spacing: 1em;
+    margin-top: 40px;
+}
+#element1{
+    height: 260px;
+    width: 260px;
+}
+.element1color{
+    background-size: 100%;
+    opacity: 96%;
+    border-radius: 4px;
+    margin-top: 5px;
+    
+}
+.element2color{
+    background-size: 100%;
+    opacity: 96%;
+    border-radius: 4px;
+}
+.element3color{
+    background-size: 100%;
+    opacity: 96%;
+    border-radius: 4px;
+}
+.element4color{
+    background-size: 100%;
+    opacity: 96%;
+    border-radius: 4px;
+}
+.element5color{
+    background-size: 100%;
+    opacity: 96%;
+    border-radius: 4px;
+}
+.conteneur1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;  
+}
+.block1{
+    border: 2px solid black;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(199, 193, 193);
+}
+.cadre1{
+    height: 500px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 4px;
+    text-align: center;
+    background-color: gray;
+  
+}
+.div1{
+    margin-top: 50px;
+}
